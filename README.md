@@ -14,7 +14,7 @@ Teams
 -----
 
 - [Amazing Project](#) by People With Computers
- [RemindMEssenger](https://github.com/relisher/eMerge) by JJAM
+- [Sociable](https://github.com/relisher/eMerge) by JJAM
 
 
 Registering Your Team
