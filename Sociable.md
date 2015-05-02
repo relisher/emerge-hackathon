@@ -11,6 +11,6 @@ Just a bunch of highschoolers having fun
 - [**Matt Liang**] (https://facebook.com/themattliang) <matthewl97@yahoo.com>
 - [**Joe Azar-Williams**] (https://www.linkedin.com/pub/joe-azar-williams/19/430/bb) <flatflop@gmail.com>
 - [**Josh Hellerstein**] (https://www.linkedin.com/pub/josh-hellerstein/7b/628/252) <jhellerstein96@gmail.com>
-- [**Anton Relin**](https://www.twitter.com/russianrelish) <roslavets.scriabin@yandex.ru>
+- [**Anton Relin**](https://www.twitter.com/russianrelish) <arelin@sas.upenn.edu>
 
 ![amazing programmer doing stuff](http://i.imgur.com/VhlQK.gif)
